@@ -1,9 +1,14 @@
-# api documentation for  [escape-string-regexp (v1.0.5)](https://github.com/sindresorhus/escape-string-regexp)  [![npm package](https://img.shields.io/npm/v/npmdoc-escape-string-regexp.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-escape-string-regexp) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-escape-string-regexp.svg)](https://travis-ci.org/npmdoc/node-npmdoc-escape-string-regexp)
+# npmdoc-escape-string-regexp
+
+#### api documentation for  [escape-string-regexp (v1.0.5)](https://github.com/sindresorhus/escape-string-regexp)  [![npm package](https://img.shields.io/npm/v/npmdoc-escape-string-regexp.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-escape-string-regexp) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-escape-string-regexp.svg)](https://travis-ci.org/npmdoc/node-npmdoc-escape-string-regexp)
+
 #### Escape RegExp special characters
 
-[![NPM](https://nodei.co/npm/escape-string-regexp.png?downloads=true)](https://www.npmjs.com/package/escape-string-regexp)
+[![NPM](https://nodei.co/npm/escape-string-regexp.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/escape-string-regexp)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-escape-string-regexp/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-escape-string-regexp_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-escape-string-regexp/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-escape-string-regexp/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-escape-string-regexp/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-escape-string-regexp/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-escape-string-regexp/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-escape-string-regexp/build/screenCapture.npmPackageListing.svg)
 
@@ -18,7 +23,6 @@
 {
     "author": {
         "name": "Sindre Sorhus",
-        "email": "sindresorhus@gmail.com",
         "url": "sindresorhus.com"
     },
     "bugs": {
@@ -58,17 +62,14 @@
     "license": "MIT",
     "maintainers": [
         {
-            "name": "sindresorhus",
-            "email": "sindresorhus@gmail.com"
+            "name": "sindresorhus"
         },
         {
-            "name": "jbnicolai",
-            "email": "jappelman@xebia.com"
+            "name": "jbnicolai"
         }
     ],
     "name": "escape-string-regexp",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/sindresorhus/escape-string-regexp.git"
@@ -79,16 +80,6 @@
     "version": "1.0.5"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module escape-string-regexp](#apidoc.module.escape-string-regexp)
-
-
-
-# <a name="apidoc.module.escape-string-regexp"></a>[module escape-string-regexp](#apidoc.module.escape-string-regexp)
 
 
 
