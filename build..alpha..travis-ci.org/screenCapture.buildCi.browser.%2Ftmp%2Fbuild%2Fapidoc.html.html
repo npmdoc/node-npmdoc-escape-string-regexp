@@ -54,12 +54,40 @@
 
     <li class="apidocModuleLi"><a href="#apidoc.module.escape-string-regexp">module escape-string-regexp</a><ol>
 
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.escape-string-regexp.escape-string-regexp">
+            function <span class="apidocSignatureSpan"></span>escape-string-regexp
+            <span class="apidocSignatureSpan">(str)</span>
+            </a>
+
+        </li>
+
     </ol></li>
 
 </ol></div>
 
 <div class="apidocSectionDiv">
 <h1><a href="#apidoc.module.escape-string-regexp" id="apidoc.module.escape-string-regexp">module escape-string-regexp</a></h1>
+
+
+    <h2>
+        <a href="#apidoc.element.escape-string-regexp.escape-string-regexp" id="apidoc.element.escape-string-regexp.escape-string-regexp">
+        function <span class="apidocSignatureSpan"></span>escape-string-regexp
+        <span class="apidocSignatureSpan">(str)</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">escape-string-regexp = function (str) {
+	if (typeof str !== 'string') {
+		throw new TypeError('Expected a string');
+	}
+
+	return str.replace(matchOperatorsRe, '\\$&amp;');
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">n/a</pre></li>
+    </ul>
+
 
 </div>
 
